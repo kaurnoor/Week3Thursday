@@ -18,6 +18,7 @@ public class Week3Thursday {
         // TODO code application logic here
         System.out.println("learning pull operations");
         System.out.println(" noorpinder kaur chahal");
+        System.out.println("fetch");
     }
     
 }
